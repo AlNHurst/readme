@@ -6,15 +6,15 @@ const renderREADME = (answers) => {
     console.log(answers.license)
     const readme = `# ${answers.title}
 ${licenseBadge(answers.license)}
-## Table of Contents:
-  * [Description](#description) 
-  * [Installation](#Installation)
-  * [Usage](#Usage)  
-  * [Contributing](#Contributing)
-  * [Tests](#Tests)
-  * [License](#License)
-  * [GitHub](#GitHub)
-  * [E-mail](#E-mail)
+## Table of Contents
+* [Description](#Description) 
+* [Installation](#Installation)
+* [Usage](#Usage)  
+* [Contributing](#Contributing)
+* [Tests](#Tests)
+* [License](#License)
+* [GitHub](#GitHub)
+* [E-mail](#E-mail)
 ## Description
 ${answers.description} 
 ## Installation
@@ -28,9 +28,9 @@ ${answers.tests}
 ## License
 ${answers.license}
 ## GitHub
-${answers.gitHub}
+GitHub: (https://github.com/${answers.gitHub})
 ## E-mail
-${answers.email}
+* Contact me with questions: email: (mailto:${answers.email})
 `
     fs.writeFile('README.md', readme, (err) => {
         if (err) {

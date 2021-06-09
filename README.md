@@ -1,27 +1,27 @@
-# fvs
-![License: MIT](https://img.shields.io/static/v1?label=License&message=MIT&color=yellow)
-## Table of Contents:
-  * [Description](#description) 
-  * [Installation](#Installation)
-  * [Usage](#Usage)  
-  * [Contributing](#Contributing)
-  * [Tests](#Tests)
-  * [License](#License)
-  * [GitHub](#GitHub)
-  * [E-mail](#E-mail)
+# Readme Generator
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## Table of Contents
+* [Description](#Description) 
+* [Installation](#Installation)
+* [Usage](#Usage)  
+* [Contributing](#Contributing)
+* [Tests](#Tests)
+* [License](#License)
+* [GitHub](#GitHub)
+* [E-mail](#E-mail)
 ## Description
-sv 
+generates a readme file 
 ## Installation
-scv
+na
 ## Usage
-sv
+na
 ## Contributing
-sv
+na
 ## Tests
-sv
+na
 ## License
 MIT
 ## GitHub
-svc
+GitHub: (https://github.com/AlNHurst)
 ## E-mail
-scv
+* Contact me with questions: email: (mailto:ahurst10@uncc.edu)
