@@ -1,27 +1,37 @@
-# Readme Generator
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# README Generator
+
 ## Table of Contents
 * [Description](#Description) 
+* [Demonstration](#Demonstration)
 * [Installation](#Installation)
 * [Usage](#Usage)  
-* [Contributing](#Contributing)
-* [Tests](#Tests)
+* [Framework](#Framework)
+* [Links](#Links)
+* [Contact](#Contact)
 * [License](#License)
-* [GitHub](#GitHub)
-* [E-mail](#E-mail)
-## Description
-generates a readme file 
+
+## Description 
+* The README generator is an application that creates quality README files after users answer prompts.The README generator was used using npm fs and inquirer. 
+
+## Demonstration
+* [Image of Project](https://github.com/AlNHurst/readme/blob/main/assets/readme_image.JPG)
+* ![gif Demonstration](https://github.com/AlNHurst/readme/blob/main/assets/readme_gif.gif)
+
 ## Installation
-na
+*  The application will require the following dependencies: inquirer and fs. Run 'npm i' to install the dependencies. 
+
 ## Usage
-na
-## Contributing
-na
-## Tests
-na
-## License
-MIT
-## GitHub
-GitHub: (https://github.com/AlNHurst)
-## E-mail
-* Contact me with questions: email: (mailto:ahurst10@uncc.edu)
+* Run the README generator application by nagivating to the index.js file. Then run the following command: 'node index.js' and respond to the prompts. 
+
+## Framework
+* Node.js
+* VS Code
+
+## Links
+* GitHub Repository Page <br>
+https://github.com/AlNHurst/readme
+
+## Contact
+* Direct questions via GitHub (https://github.com/AlNHurst) or email [Alexandra Hurst](mailto:ahurst10@uncc.edu)
+
+
