@@ -14,8 +14,10 @@
 * The README generator is an application that creates quality README files after users answer prompts.The README generator was used using npm fs and inquirer. 
 
 ## Demonstration
-* [Image of Project](https://github.com/AlNHurst/readme/blob/main/assets/readme_image.JPG)
-* ![gif Demonstration](https://github.com/AlNHurst/readme/blob/main/assets/readme_gif.gif)
+* Image of the Project
+[Image of Project](https://github.com/AlNHurst/readme/blob/main/assets/readme_image.JPG)
+* Video Demonstration
+![gif Demonstration](https://github.com/AlNHurst/readme/blob/main/assets/readme_gif.gif)
 
 ## Installation
 *  The application will require the following dependencies: inquirer and fs. Run 'npm i' to install the dependencies. 
