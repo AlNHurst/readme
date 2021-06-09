@@ -15,7 +15,7 @@
 
 ## Demonstration
 * Image of the Project
-[Image of Project](https://github.com/AlNHurst/readme/blob/main/assets/readme_image.JPG)
+![Image of Project](https://github.com/AlNHurst/readme/blob/main/assets/readme_image.JPG)
 * Video Demonstration
 ![gif Demonstration](https://github.com/AlNHurst/readme/blob/main/assets/readme_gif.gif)
 
